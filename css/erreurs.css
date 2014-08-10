@@ -1,0 +1,26 @@
+.form-signin
+	{
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+	background: beige;
+	border-radius: 0 0 10px 10px;
+	-webkit-border-radius: 0 0 10px 10px;
+	-moz-border-radius: 0 0 10px 10px;
+	-o-border-radius: 0 0 10px 10px;
+	}
+	.bg-success{
+	padding: 15px !important;
+	border-radius:5px !important;
+	-moz-border-radius:5px !important;
+	-webkit-border-radius:5px !important;
+	-o-border-radius:5px !important;
+	}
+
+	.bg-danger{
+	padding: 15px !important;
+	border-radius:5px !important;
+	-moz-border-radius:5px !important;
+	-webkit-border-radius:5px !important;
+	-o-border-radius:5px !important;
+	}

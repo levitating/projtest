@@ -1,0 +1,14 @@
+.slider_bg {width:100%;height:404px;background:url(../images/bg_slider.jpg) 0 0 no-repeat;position:relative;overflow:hidden;box-shadow:0 0 5px rgba(0, 0, 0, .4);-moz-box-shadow:0 0 5px rgba(0, 0, 0, .4);-webkit-box-shadow:0 0 5px rgba(0, 0, 0, .4);margin-bottom:35px}
+.slider {top:10px;right:10px;position:absolute;z-index:1;width:920px}
+.slider .items {display:none}
+.slider .pic {float:right;position:relative}
+.banner {left:0px;top:0;position:absolute;width:271px;z-index:2;text-align:center}
+.banner strong {font-size:52px;color:#bf0f0a;display:block;line-height:1.2em;text-transform:uppercase;padding:55px 0 0 0;letter-spacing:-2px}
+.banner strong span {display:block;margin-top:-16px}
+.banner b {display:block;font-size:27px;color:#312826;text-transform:uppercase;padding:0 0 23px 0;line-height:1.2em;letter-spacing:-1px}
+.banner p {background:url(../images/quot1.png) 0 0 no-repeat}
+.banner p span {display:block;background:url(../images/quot2.png) right bottom no-repeat;padding:0 0 0 0;color:#6c5f5b;padding-bottom:2px}
+.slider .pagination {position:absolute;z-index:2;bottom:10px;left:107px}
+.slider .pagination li {float:left;padding-right:3px}
+.slider .pagination a {display:block;width:17px;height:17px;text-indent:-9999px;background:url(../images/buttons.png) right 0 no-repeat}
+.slider .pagination a:hover, .slider .pagination .current a {background-position:left}
