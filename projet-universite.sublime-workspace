@@ -1,0 +1,546 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array",
+				"array"
+			],
+			[
+				"images",
+				"imagesArray"
+			],
+			[
+				"adhé",
+				"adhésion"
+			],
+			[
+				"side",
+				"focus_side_bar"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/php.sublime-build",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"Bookmarks: Select Next"
+			],
+			[
+				"SELECT",
+				"Emmet: Select Next Item"
+			],
+			[
+				"disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Snippet: bs3-pagination-small"
+			],
+			[
+				"snippet",
+				"Snippet: assertLessThanOrEqual"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"synt",
+				"Set Syntax: PHP"
+			],
+			[
+				"packa disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"package disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"package control list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 184.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp86/www/immo3plus.com/inc/mysql.inc.php",
+		"/C/wamp86/www/Halo Whirled/yolo.txt",
+		"/C/Users/Salah/AppData/Local/Temp/fz3temp-1/config.php",
+		"/C/wamp86/www/immo3plus.com/inc/galery.inc.php",
+		"/C/wamp86/www/immo3plus.com/wp-noprop.css",
+		"/C/wamp86/www/immo3plus.com/admin/index.php",
+		"/C/wamp86/www/immo3plus.com/details.php",
+		"/C/wamp86/www/immo3plus.com/inc/config.php",
+		"/C/wamp86/www/immo3plus.com/carto/index.php",
+		"/C/wamp86/www/immo3plus.com/inc/functions.php",
+		"/C/wamp86/www/immo3plus.com/lightbox.js",
+		"/C/wamp86/www/immo3plus.com/lightbox.css",
+		"/C/wamp86/www/immo3plus.com/admin/biens.php",
+		"/C/wamp86/www/immo3plus.com/carto/execu.php",
+		"/C/wamp86/www/immo3plus.com/gallery.php",
+		"/C/wamp86/www/immo3plus.com/nosproprietes.php",
+		"/C/wamp86/www/immo3plus.com/_templateOrigin_proprietes.html",
+		"/C/wamp86/www/immo3plus.com/piecemakerParamGen.php",
+		"/C/wamp86/www/immo3plus.com/piecemakerParams.xml",
+		"/C/wamp86/www/immo3plus.com/wp-detail.css",
+		"/C/wamp86/www/immo3plus.com/css/css.css",
+		"/C/wamp86/www/immo3plus.com/index.php",
+		"/C/wamp86/www/immo3plus.com/piecemaker.php",
+		"/C/wamp86/www/immo3plus.com/piecemaker.xml",
+		"/C/wamp86/www/immo3plus.com/phpinfo.php.bak",
+		"/C/wamp86/www/immo3plus.com/inc/img1.php",
+		"/C/wamp86/www/immo3plus.com/inc/img.php",
+		"/C/wamp86/www/immo3plus.com/inc/dataVerif-.php",
+		"/C/wamp86/www/immo3plus.com/inc/dataVerif.php",
+		"/C/wamp86/www/immo3plus.com/inc/img2.php",
+		"/C/wamp86/www/immo3plus.com/css/css_black.css",
+		"/C/wamp86/www/immo3plus.com/inc/images.inc.php",
+		"/C/wamp86/www/immo3plus.com/inc/character.inc.php",
+		"/C/wamp86/www/immo3plus.com/inc/errorHandling.inc.php",
+		"/C/wamp86/www/immo3plus.com/inc/login.inc.php",
+		"/C/wamp86/www/immo3plus.com/galery.inc.php",
+		"/C/wamp86/www/immo3plus.com/database.inc.php",
+		"/C/wamp86/www/immo3plus.com/character.inc.php",
+		"/C/wamp86/www/immo3plus.com/images.inc.php",
+		"/C/Users/Salah/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Salah/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/wamp86/www/immo3plus.com - Copie 2014 06 27/gallery.php",
+		"/C/wamp86/www/immo3plus.com/prototype.js",
+		"/C/wamp86/www/immo3plus.com/wpcss.css",
+		"/C/Users/Salah/Downloads/lightbox_slideshow/lightbox.js",
+		"/C/wamp86/www/immo3plus.com/js/lightbox.js",
+		"/C/wamp86/www/immo3plus.com/css/lightbox2.css",
+		"/C/wamp86/www/immo3plus.com/acheter.php",
+		"/C/wamp86/www/immo3plus.com/biens.php",
+		"/C/wamp86/www/immo3plus.com/contact.php",
+		"/C/wamp86/www/immo3plus.com/GA.php",
+		"/C/wamp86/www/immo3plus.com/hypotheque.php",
+		"/C/wamp86/www/immo3plus.com/vendre.php",
+		"/C/wamp86/www/immo3plus.com/video.php",
+		"/C/wamp86/www/immo3plus.com/wpscripts/gallery.php",
+		"/C/Users/Salah/AppData/Roaming/Sublime Text 2/Packages/User/php.sublime-build",
+		"/C/Users/Salah/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/wamp86/www/immo3plus.com/jquery.js",
+		"/C/Users/Salah/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/wamp86/www/immo3plus.com/hijohn.php",
+		"/C/wamp86/www/immo3plus.com/inc/functions.php5",
+		"/C/Users/Salah/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Salah/Desktop/php.ini",
+		"/C/Users/Salah/Desktop/Old Firefox Data/b8q12zrk.default/bookmarkbackups/bookmarks-2014-03-21_8.json",
+		"/C/wamp86/www/immo3plus.com/inc/mysqli.inc.php",
+		"/C/wamp86/www/immo3plus.com/meta/live.js",
+		"/C/Users/Salah/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Salah/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Salah/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/README.md",
+		"/C/wamp86/www/immo3plus.com/testest.php",
+		"/C/Users/Salah/AppData/Roaming/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/C/Users/Salah/AppData/Roaming/Sublime Text 2/Packages/User/php-lint.sublime-build",
+		"/C/wamp86/www/immo3plus.com/vendre.html",
+		"/C/Users/Salah/Desktop/sublimeTest.php",
+		"/C/Users/Salah/Documents/_code/sublime text snippets/lineruler.sublime-snippet",
+		"/C/Users/Salah/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/wamp86/www/immo3plus.com/_DOC/sublimetext notes.txt",
+		"/C/Users/Salah/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/wamp86/www/immo3plus.com/inc/img3.php",
+		"/C/wamp86/www/immo3plus.com/admin/css.css",
+		"/C/Users/Salah/Documents/_code/sublime text snippets/line length.sublime-snippet",
+		"/C/wamp86/www/immo3plus.com/base.css"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"<project",
+			"<project>",
+			"",
+			"<project>",
+			"<br>\n<br>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"(\\s*\\?>\\s*)$",
+			"sold",
+			"mode",
+			"res=",
+			"&amp;",
+			"res=",
+			"&amp;",
+			"def_width",
+			"f1stColor",
+			"date_default_timezone_set",
+			"$imgUrlFull",
+			"class=\"polaroid_gal",
+			"width",
+			"lightbox",
+			"$folder",
+			"xidx",
+			"houseLink",
+			"505",
+			"prix",
+			"$prix",
+			"{",
+			"]",
+			"//die($name);",
+			"img1.php",
+			"showLightBox",
+			"hideStyleMenu",
+			"0000",
+			"gallery.php",
+			"amp",
+			"amp%",
+			"&",
+			"&amp([^;])",
+			"&amp[^;]",
+			"gallery",
+			"slideshow",
+			"launch",
+			"slideshow",
+			"nextlabel.gif",
+			"next",
+			"lightbox",
+			"settings = jQuery.extend",
+			"jquery",
+			"   21  <link rel=\"stylesheet\" type=\"text/css\" href=\"css/lightbox.css\" />",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/css_black.css\" title=\"black\" />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"css/lightbox_black.css\" title=\"black\" />",
+			"<link href=\"css/lightbox2.css\" rel=\"stylesheet\" />",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/css_black.css\" title=\"black\" />\n<link rel=\"stylesheet\" type=\"text/css\" href=\"css/lightbox_black.css\" title=\"black\" />\n<link rel=\"alternate stylesheet\" type=\"text/css\" href=\"css/css_light.css\" title=\"light\" />\n<link rel=\"alternate stylesheet\" type=\"text/css\" href=\"css/lightbox_light.css\" title=\"light\" />",
+			"   21  <link rel=\"stylesheet\" type=\"text/css\" href=\"css/css_black.css\" title=\"black\" />\n   22: <link rel=\"stylesheet\" type=\"text/css\" href=\"css/lightbox_black.css\" title=\"black\" />\n   23  <link rel=\"alternate stylesheet\" type=\"text/css\" href=\"css/css_light.css\" title=\"light\" />\n   24: <link rel=\"alternate stylesheet\" type=\"text/css\" href=\"css/lightbox_light.css\" title=\"light\" />",
+			"lightbox",
+			"lightshow",
+			"lightbox",
+			"functions.php5",
+			"rel=\"lightbox",
+			" rel=\"",
+			"subject",
+			"php",
+			"<!--<!--",
+			"password",
+			";",
+			"side",
+			"side						",
+			"hellohello",
+			"hello",
+			"hellohello",
+			"hello",
+			"text",
+			"stylesheet",
+			"StyleSheet",
+			"stylesheet",
+			"link",
+			"stylesheet",
+			"Ctrl",
+			"<link",
+			"snippet",
+			"new",
+			"snippet",
+			"0",
+			"<br>",
+			"+t",
+			"<br>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&amp;$1",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"css/lightbox.css\" />",
+			"   21  <link rel=\"stylesheet\" type=\"text/css\" href=\"css/lightbox.css\" />"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 141.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mysql",
+				"inc/mysql.inc.php"
+			],
+			[
+				"nop",
+				"wp-noprop.css"
+			],
+			[
+				"nopr",
+				"nosproprietes.php"
+			],
+			[
+				"galery",
+				"inc/galery.inc.php"
+			],
+			[
+				"piecema",
+				"piecemakerParamGen.php"
+			],
+			[
+				"piecemaker",
+				"piecemakerParams.xml"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"config",
+				"inc/config.php"
+			],
+			[
+				"function",
+				"inc/functions.php"
+			],
+			[
+				"light",
+				"lightbox.js"
+			],
+			[
+				"galle",
+				"gallery.php"
+			],
+			[
+				"inc.php",
+				"inc/character.inc.php"
+			],
+			[
+				"image",
+				"inc/images.inc.php"
+			],
+			[
+				"dataverif",
+				"inc/dataVerif.php"
+			],
+			[
+				"cssblack",
+				"css/css_black.css"
+			],
+			[
+				"proto",
+				"prototype.js"
+			],
+			[
+				"lightbocss",
+				"lightbox.css"
+			],
+			[
+				"lightbox",
+				"lightbox.js"
+			],
+			[
+				"gall",
+				"gallery.php"
+			],
+			[
+				"acheter",
+				"acheter.php"
+			],
+			[
+				"gale",
+				"gallery.php"
+			],
+			[
+				"cont",
+				"contact.php"
+			],
+			[
+				"css.css",
+				"admin/css.css"
+			],
+			[
+				"contact",
+				"contact.php"
+			],
+			[
+				"propphp",
+				"nosproprietes.php"
+			],
+			[
+				"img",
+				"inc/img3.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Salah/Desktop/01.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true
+}
